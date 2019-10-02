@@ -1,0 +1,14 @@
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4-Rest.deps.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4-Rest.runtimeconfig.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4-Rest.runtimeconfig.dev.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4-Rest.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4-Rest.pdb
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.RazorAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.RazorAssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.RazorTargetAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4-Rest.pdb

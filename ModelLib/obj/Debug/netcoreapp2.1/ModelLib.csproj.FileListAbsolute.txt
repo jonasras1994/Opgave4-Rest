@@ -1,0 +1,17 @@
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.deps.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.deps.json
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\JonasRasmussen\source\repos\ObligatoriskOpgave\Opgave4-Rest\ModelLib\obj\Debug\netcoreapp2.1\ModelLib.pdb

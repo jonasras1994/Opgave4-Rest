@@ -1,0 +1,17 @@
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.RazorAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.RazorAssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4Rest.deps.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4Rest.runtimeconfig.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4Rest.runtimeconfig.dev.json
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4Rest.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.RazorTargetAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\Opgave4Rest.pdb
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.pdb
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\JonasRasmussen\source\repos\Opgave4-Rest\Opgave4-Rest\obj\Debug\netcoreapp2.1\Opgave4Rest.csproj.CopyComplete
